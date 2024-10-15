@@ -1,0 +1,12 @@
+Atividade de avaliação (dupla)
+
+Cadastro de clientes
+
+Campos:
+Nome, cpf, tel(11)99999-9999, endereço completo, email
+
+Validação de campos obrigatórios (nome, tel)
+Preenchimento automático do endereço em função do CEP fornecido.
+Preenchimento automático do DDD no telefone em função do CEP fornecido
+
+Uso do bootstrap, layout responsivo

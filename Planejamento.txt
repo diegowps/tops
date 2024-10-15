@@ -1,0 +1,10 @@
+UC 9 - Lógica de programação (José)
+UC 14 - Tratamento de imagens (Sirlene)
+UC 15 - Front-end (Sirlene / José)
+UC 10 - Banco de dados (Sirlene / José)
+_________________________________________
+UC 12 - Desenvolvimento de sistemas desktop (José)
+UC 13 - Back-end (Sirlene)
+___________________________________________
+UC 11 - Testes (Sirlene / José)
+UC 16 - Projeto Integrador (Sirlene / José)

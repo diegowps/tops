@@ -1,0 +1,6 @@
+Individual
+
+1) FCM -> dentro do coração
+Seção mostrador IMC e FCM (aplicar estilo CSS)
+
+2) Transformar em PWA (manifest.json) e instalar o APP

@@ -1,0 +1,56 @@
+individual ou dupla ou trio
+
+Super APP
+
+- Desenvolver um APP semelhante ao Health Calculator, agregando vários cálculos em um único APP
+
+Tema livre
+
+Sugestões:
+APP Pedreiro
+ - cálculo da área
+ - quantidade de tijolos (macicço, baiano 6 furos, 8 furos)
+ - quantidade de mistura (areia, cimento etc)
+
+APP da Gringa
+ Conversão:
+ - dólar -real
+ - celsius - Fahrenheit
+ - milhas - km
+ - pés - metros
+ - galão - litros
+
+APP Carango
+- consumo km/l
+- autônomia
+- etanol x gasolina
+- custo da viagem
+- tempo de viagem
+
+APP Cálculo da % de gordura corporal
+- medição com adipômetro
+- 7 medidas
+
+APP transporte
+- frete
+- + cálculos
+
+Holerite
+
+Requisitos:
+1) Agregar vários cálculos compatíveis
+2) Imagens, mostradores, UX
+3) PWA
+
+
+
+
+
+
+
+
+
+
+
+
+
