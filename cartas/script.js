@@ -1,14 +1,14 @@
 const cards = [
-    { name: 'mico', img: 'https://example.com/mico.jpg' },
-    { name: 'mico', img: 'https://example.com/mico.jpg' },
-    { name: 'cachorrinho', img: 'https://example.com/cachorrinho.jpg' },
-    { name: 'cachorrinho', img: 'https://example.com/cachorrinho.jpg' },
-    { name: 'gato', img: 'https://example.com/gato.jpg' },
-    { name: 'gato', img: 'https://example.com/gato.jpg' },
-    { name: 'pato', img: 'https://example.com/pato.jpg' },
-    { name: 'pato', img: 'https://example.com/pato.jpg' },
-    { name: 'elefante', img: 'https://example.com/elefante.jpg' },
-    { name: 'elefante', img: 'https://example.com/elefante.jpg' },
+    { name: 'mico', img: 'https://odia.ig.com.br/_midias/jpg/2024/03/01/mico-32161635.jpg' },
+    { name: 'mico', img: 'https://odia.ig.com.br/_midias/jpg/2024/03/01/mico-32161635.jpg' },
+    { name: 'cachorro', img: 'https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic_1450943.jpg' },
+    { name: 'cachorro', img: 'https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic_1450943.jpg' },
+    { name: 'gato', img: 'https://cdn.pixabay.com/photo/2024/04/12/23/54/animal-8692802_1280.jpg' },
+    { name: 'gato', img: 'https://cdn.pixabay.com/photo/2024/04/12/23/54/animal-8692802_1280.jpg' },
+    { name: 'pato', img: 'https://blog-leiturinha-novo.s3.us-east-1.amazonaws.com/production/uploads/2022/06/iStock-1314796448-1.jpg' },
+    { name: 'pato', img: 'https://blog-leiturinha-novo.s3.us-east-1.amazonaws.com/production/uploads/2022/06/iStock-1314796448-1.jpg' },
+    { name: 'elefante', img: 'https://www.petz.com.br/blog/wp-content/uploads/2022/03/animal-mais-forte-do-mundo.jpg' },
+    { name: 'elefante', img: 'https://www.petz.com.br/blog/wp-content/uploads/2022/03/animal-mais-forte-do-mundo.jpg' },
   ];
   
   let selectedCards = [];
